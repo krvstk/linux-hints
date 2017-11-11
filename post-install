@@ -1,0 +1,4 @@
+sudo apt-get update 
+  // update upgrade list of packages
+sudo apt-get upgrade 
+  // upgrade packages
